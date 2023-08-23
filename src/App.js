@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <div className='black-nav'>   
-        <h4>ReactBlog</h4>        
+        <h4>ReactBlog(수정)</h4>        
       </div>
       <button onClick={()=>{
         글제목 = 글제목.reverse();
